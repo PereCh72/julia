@@ -11,4 +11,4 @@ Pots llegir el guió en format de pàgina web en aquest enllaç:
 https://perech72.github.io/julia/
 
 ---
-*Guió original de Pere Chardi Garcia.*
+*Guió original de Pere Chardi Garcia.* 
